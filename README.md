@@ -1,3 +1,4 @@
+![logo](https://github.com/atulsolo/atulsolo/blob/d618a01234081c20aeeed88dc2922f08f7330cb7/imagebanner.jpg)
 <h1 align="center">Hi 👋, I'm Atul Sharma</h1>
 <h3 align="center">Decoding Data: Navigating the Data Science Frontier for Informed Decision-Making</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
